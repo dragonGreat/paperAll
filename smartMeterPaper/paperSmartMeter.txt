@@ -1,0 +1,17 @@
+1:title: Private Memoird of a smart meter  (BuildSys 2010 November 2.2010.Zurich)
+university of Massachusetts amherst
+keywords: smart Meters.smart grid,privacy,security
+
+main content:
+
+abstract:
+off-the-shelf statistical methods:统计学的方法
+实验数据集：用了3个房间两个月的数据，采样频率1hz
+数据可以解释一些信息：有多少人在家，睡觉规律，吃饭规律等等
+we then architecture that allows an electric utility to achieve its net metering goals without compromising the privacy of its customers
+
+
+
+
+
+
