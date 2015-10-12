@@ -9,8 +9,22 @@ off-the-shelf statistical methods:统计学的方法
 实验数据集：用了3个房间两个月的数据，采样频率1hz
 数据可以解释一些信息：有多少人在家，睡觉规律，吃饭规律等等
 we then architecture that allows an electric utility to achieve its net metering goals without compromising the privacy of its customers
+强调较多人私人安全
 
 
+分析步骤：
+1.利用现有和聚类算法鉴别和分析标记相同的功率事件
+2.用一个或多个特征来来给每个事件打标签
+3.filter out
+automated appliances by observing their signatures during
+periods of low power activity
+4.map opaque labels to
+real-life events using a small amount of externally gathered
+knowledge.
+
+
+using a density-based clustering algorithm（DBSCAN）
+鉴定事件一般用 ramp-up
 
 
 
