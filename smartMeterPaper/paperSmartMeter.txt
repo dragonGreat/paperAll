@@ -29,3 +29,37 @@ using a density-based clustering algorithm（DBSCAN）
 
 
 
+title: smart meter deployment optimisation and its analysis for appliance load monitoring
+(智能电表的最优化部署分析用在对负载电器的监控)
+Department of elce,Ryerson University,Toronto,Canada On M5B 2K3
+
+published in the journal of engineering,received on 11th december 2014,accepted on 9th January 2015
+
+No keys:
+
+作者提出了智能电表部署的最优化算法，一个是穷举算法，另一个是基于穷举算法提出了一种更高效的穷举算法
+
+
+
+问题：We intend to find the minimum number of meters that can be used
+to monitor N devices.
+
+本文提出了一个新的智能电表部署的最佳方法
+
+主要工作：
+1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
