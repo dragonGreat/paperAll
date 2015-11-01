@@ -1,5 +1,5 @@
 1:title: Private Memoird of a smart meter  (BuildSys 2010 November 2.2010.Zurich)
-university of Massachusetts amherst
+university of Massachusetts amherst（马萨诸塞大学阿默斯特分校）
 keywords: smart Meters.smart grid,privacy,security
 
 main content:
@@ -48,6 +48,7 @@ to monitor N devices.
 
 主要工作：
 1.
+
 
 
 
