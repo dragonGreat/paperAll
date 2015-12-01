@@ -1,0 +1,66 @@
+1:title: Private Memoird of a smart meter  (BuildSys 2010 November 2.2010.Zurich)
+university of Massachusetts amherst（马萨诸塞大学阿默斯特分校）
+keywords: smart Meters.smart grid,privacy,security
+
+main content:
+
+abstract:
+off-the-shelf statistical methods:统计学的方法
+实验数据集：用了3个房间两个月的数据，采样频率1hz
+数据可以解释一些信息：有多少人在家，睡觉规律，吃饭规律等等
+we then architecture that allows an electric utility to achieve its net metering goals without compromising the privacy of its customers
+强调较多人私人安全
+
+
+分析步骤：
+1.利用现有和聚类算法鉴别和分析标记相同的功率事件
+2.用一个或多个特征来来给每个事件打标签
+3.filter out
+automated appliances by observing their signatures during
+periods of low power activity
+4.map opaque labels to
+real-life events using a small amount of externally gathered
+knowledge.
+
+
+using a density-based clustering algorithm（DBSCAN）
+鉴定事件一般用 ramp-up
+
+
+
+
+title: smart meter deployment optimisation and its analysis for appliance load monitoring
+(智能电表的最优化部署分析用在对负载电器的监控)
+Department of elce,Ryerson University,Toronto,Canada On M5B 2K3
+
+published in the journal of engineering,received on 11th december 2014,accepted on 9th January 2015
+
+No keys:
+
+作者提出了智能电表部署的最优化算法，一个是穷举算法，另一个是基于穷举算法提出了一种更高效的穷举算法
+
+
+
+问题：We intend to find the minimum number of meters that can be used
+to monitor N devices.
+
+本文提出了一个新的智能电表部署的最佳方法
+
+主要工作：
+1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
